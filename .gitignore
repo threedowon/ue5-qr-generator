@@ -1,0 +1,43 @@
+# ============================
+# UE5 Plugin Ignore
+# ============================
+
+# Unreal generated
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Build output
+Build/
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+*.sln
+*.VC.db
+*.VC.opendb
+*.user
+*.suo
+
+# Logs & temp
+*.log
+*.tmp
+*.Backup
+*_Backup
+
+# C++ artifacts
+*.obj
+*.pch
+*.dll
+*.lib
+*.exe
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Optional: SourceArt
+SourceArt/
